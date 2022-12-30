@@ -1,0 +1,16 @@
+.content {
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    left: 22%;
+    right: 25%;
+}
+
+.link {
+    color:  #322A2A;
+    font-size: 30px;
+    text-decoration: none;
+}
+/* .link:nth-child(3) {
+    color: #FCF5ED;
+} */

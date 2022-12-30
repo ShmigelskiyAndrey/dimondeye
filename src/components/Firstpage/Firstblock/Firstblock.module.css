@@ -1,0 +1,31 @@
+.firstblock {
+    background-color: #EFE8E0;
+    background-image: url('/public/images/first/bgfirst.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    padding-left: 70px;
+}
+
+.logo {
+    color: #E99431;
+    font-size: 140px;
+    padding-top: 180px;
+}
+.title {
+    color: #322A2A;
+    font-size: 30px;
+    margin-top: -30px;
+}
+.button {
+    background: linear-gradient(90deg, #FF6F6F -35.85%, #EB0602 -35.83%, #FF7B41 33.04%, #F09A36 75.6%, rgba(210, 212, 1, 0.0260417) 158.66%, rgba(252, 255, 107, 0) 158.68%);
+    border: 1px solid #000000;
+    border-radius: 40px;
+    width: 253px;
+    height: 61px;
+
+    font-size: 30px;
+    color: #322A2A;
+
+    margin-top: 50px;
+}

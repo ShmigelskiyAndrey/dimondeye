@@ -1,0 +1,10 @@
+.first a:nth-child(2) {
+    color:  #FCF5ED;
+}
+.first a:nth-child(3) {
+    margin-left: 10px;
+    color: #FCF5ED;;
+}
+.first span{
+    color:  #322A2A;
+}

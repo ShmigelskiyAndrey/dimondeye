@@ -1,0 +1,95 @@
+.content {
+    background-color: #9C3C26;
+    background-image: url(/public/images/order/orderbg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.content img {
+    max-width: 99%;
+    max-height: 99%;
+    position: absolute;
+    left: 0; 
+    right: 0; 
+    margin-left: auto; 
+    margin-right: auto; 
+    z-index: 0;
+}
+
+.content h1 {
+    z-index: 2;
+    color: #322A2A;
+    font-size: 50px;
+    font-family: inherit;
+    font-weight: 400;
+}
+
+.content input {
+    z-index: 2;
+
+    background: #F9F9F9;
+    border: 1px solid #A8A2A2;
+    box-shadow: 0px 4px 4px rgba(194, 192, 192, 0.25);
+    border-radius: 40px;
+
+    width: 400px;
+    height: 55px;
+
+    font-size: 18px;
+    text-align: center;
+    outline: none;
+}
+
+.content label {
+    z-index: 2;
+    color: #322A2A;
+    font-size: 18px;
+    width: 400px;
+}
+
+.time {
+    z-index: 2;
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.time input {
+    width: 190px;
+}
+
+.pole {
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.content button {
+    z-index: 2;
+
+    background: linear-gradient(90deg, #FF6F6F -35.85%, #EB0602 -35.83%, #FF7B41 33.04%, #F09A36 75.6%, rgba(210, 212, 1, 0.0260417) 158.66%, rgba(252, 255, 107, 0) 158.68%);
+    border: 1px solid #7C7C7C;
+    border-radius: 40px;
+    width: 235px;
+    height: 55px;
+    font-size: 24px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+}
+
+.all {
+    z-index: 2;
+
+    display: flex;
+    align-items: flex-end;
+}
+
+.container {
+    margin: 0;
+}

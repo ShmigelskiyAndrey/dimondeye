@@ -1,0 +1,30 @@
+.first {
+    background-color: #A8462D;
+    background-image: url(/public/images/Test/testfirstbg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 120vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding-left: 100px;
+}
+
+.first img {
+    margin-top: 50px;
+}
+
+.first button {
+    width: 490px;
+    height: 80px;
+    background: #FCF5ED;
+    border: 1px solid #000000;
+    border-radius: 40px;
+
+    margin-top: 20px;
+
+    font-size: 32px;
+}
+

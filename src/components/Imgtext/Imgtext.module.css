@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    margin-top: 50px;
+    font-size: 30px;
+    color: #322A2A;
+}
+
+.container img {
+    max-width: 650px;
+    max-height: 550px;
+    object-fit: cover;
+}
+
+.text {
+    margin-left: 20px;
+    max-width: 700px;
+}
+
+.text p {
+    margin-bottom: 20px;
+}
+
+.text span {
+    color: #E99431;
+}

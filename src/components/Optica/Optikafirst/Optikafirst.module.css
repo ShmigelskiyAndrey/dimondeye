@@ -1,0 +1,16 @@
+.container {
+    background-color: #EFE8E0;
+    background-image: url('/public/images/optika/optikafirst.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 200px;
+}
+
+.container img {
+    max-width: 350px;
+    max-height: 250px
+}

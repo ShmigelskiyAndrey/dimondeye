@@ -1,0 +1,16 @@
+.container {
+    background-color: #E7E7E5;
+    background-image: url(/public/images/Test/testthirdbg.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 560px;
+    margin-top: 50px;
+}
+
+.container p {
+    font-size: 30px;
+    color: #322A2A;
+    margin-left: 100px;
+    max-width: 600px;
+    padding-top: 50px;
+}

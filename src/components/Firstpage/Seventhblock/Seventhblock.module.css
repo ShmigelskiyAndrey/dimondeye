@@ -1,0 +1,76 @@
+.content {
+    color: #322A2A;
+    text-align: center;
+    margin: 50px 50px 0 50px;
+}
+
+.content h1 {
+    font-size: 76px;
+    font-weight: 400;
+}
+
+.content h3 {
+    font-size: 50px;
+    font-weight: 400;
+}
+
+.content p{
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.content img {
+    max-width: 550px;
+}
+
+.container {
+    text-align: start;
+    margin-top: -20px;
+}
+
+.first {
+    display: flex;
+    margin-top: 50px;
+}
+
+.firsttext {
+    padding-left: 10px;
+    max-width: 600px;
+}
+
+.second {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-end;
+    margin-top: -200px;
+    text-align: end;
+}
+
+.secondtext {
+    padding-right: 10px;
+    max-width: 500px;
+}
+
+.third {
+    display: flex;
+    margin-top: 100px;
+}
+
+.thirdtext {
+    padding-left: 10px;
+    max-width: 550px;
+}
+
+.fourth {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-end;
+    margin-top: -200px;
+    text-align: end;
+    padding-bottom: 50px;
+}
+
+.fourthtext {
+    padding-right: 10px;
+    max-width: 600px;
+}

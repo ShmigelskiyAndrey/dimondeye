@@ -1,0 +1,7 @@
+.first {
+    background-color: #EFE8E0;
+    background-image: url('/public/images/sun/sunfirst.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 110vh;
+}
