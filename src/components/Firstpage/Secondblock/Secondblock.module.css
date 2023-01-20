@@ -1,0 +1,33 @@
+.textblock {
+    color: #322A2A;
+    display: flex;
+    align-items: flex-start;
+    text-align: center;
+    justify-content: center;
+    
+    padding: 100px 0 0 0;
+}
+.heading {
+    width: 500px;
+}
+.heading h1 {
+    font-size: 76px;
+    font-weight: 400;
+    max-width: 900px;
+    padding-top: 10px;
+}
+
+.container {
+    text-align: left;
+}
+.textblock p {
+    font-size: 28px;
+    font-weight: 400;
+    padding: 10px 80px 0 80px;
+    max-width: 1100px;
+    
+}
+.textblock span {
+    color: #E99431;
+    text-transform: uppercase;
+}
